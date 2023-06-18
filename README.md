@@ -58,5 +58,5 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 ### Links
 
-- Solution URL: [ Click Here](https://your-solution-url.com)
-- Live Site URL: [ Click Here](https://your-live-site-url.com)
+- Solution URL: [ Click Here](https://github.com/rahulvr29/Tip-Calculator-App)
+- Live Site URL: [ Click Here](https://sparkly-marigold-a06083.netlify.app/)
